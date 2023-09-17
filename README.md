@@ -9,7 +9,7 @@ Two methods that have been implemeted to detect Parkinson's Disease, one using i
 
 To run the notebooks, 
 ``` 
-git clone https://github.com/Nandana-Manoj/UE20CS302_MI_PROJECT
+git clone git@github.com:preethika-ajay/Parkinson-s-NeuroScan-MRI-based-Prediction-with-Transfer-Learning.git
 jupyter notebook
 ```
 
